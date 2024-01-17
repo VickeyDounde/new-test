@@ -8,7 +8,7 @@ public class EmpSal
           {
              pf = sal*.12F;
              sal = sal-pf;
-             System.out.println("Total PF Deduction is"+pf); 
+             System.out.println("Total Salary PF Deduction is"+pf); 
           } 
 
          System.out.println("Total Salary is "+sal);
